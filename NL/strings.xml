@@ -28,7 +28,7 @@
         <string name="exportSubscription">Export mogelijkheid is enkel beschikbaar als een betalende uitbreiding. Wil je deze uitbreiding nu aankopen om je gegevens te kunnen exporteren en delen?</string>
         <string name="layerLine">Lijnen</string>
         <string name="localExport">SD Kaart</string>
-        <string name="shareExport">Deel geëxporteerd bestand</string>
+        <string name="shareExport">Delen geëxporteerd bestand</string>
         <string name="surveySettings">Inventarisatie</string>
         <string name="surveySettingsSum">Inventarisatie gerelateerde instellingen</string>
         <string name="rememberLast">Laatst Toegevoegde als standaard</string>
@@ -276,7 +276,7 @@
         <string name="externalBTGPS">Externe GNSS</string>
         <string name="externalBTGPSSum">Configureer Externe Bluetooth GNSS-ontvanger.</string>
         <string name="enableBTGPS">Direct Connect met Externe GNSS</string>
-        <string name="enableBTGPSSum">Klik om externe GNSS-ontvanger aan te zetten en selecteer de bron voor plaatsbepaling uit de gekoppelde toestellen. De ontvanger moet NMEA sentences streamen over bluetooth.</string>
+        <string name="enableBTGPSSum">Tik om externe GNSS-ontvanger aan te zetten en selecteer de bron voor plaatsbepaling uit de gekoppelde toestellen. De ontvanger moet NMEA sentences streamen over bluetooth.</string>
         <string name="notAvailableExternalGPS">Gekozen externe GNSS-ontvanger is niet beschikbaar. Controleer aub uw instellingen of zet extern toestel AAN en herstart de toepassing.</string>
         <string name="forceMockLoc">Onechte Locaties afdwingen</string>
         <string name="forceMockLocSum">Staat standaard UIT. Je kan het echter proberen als je problemen hebt met de verbinding.</string>
@@ -697,7 +697,7 @@
         <string name="geoidHeightInfo">Geoïde hoogte</string>
         <string name="orthometric">Orthometrisch</string>
         <string name="externalGNSSTCP">Directe Verbinding over TCP</string>
-        <string name="externalGNSSTCPSum">Klik om externe GNSS ontvanger aan te zetten en toegang te verkrijgen tot locatie bron over TCP protocol. Ontvanger moet NMEA sentences over TCP streamen.</string>
+        <string name="externalGNSSTCPSum">Tik om externe GNSS ontvanger aan te zetten en toegang te verkrijgen tot locatie bron over TCP protocol. Ontvanger moet NMEA sentences over TCP streamen.</string>
         <string name="externalGNSSTCPInfo">TCP GNSS</string>
         <string name="newPointsAddCoordinates">Voeg Punt toe via coördinaten.</string>
         <string name="newPointsAddCoordinatesSum">Maak nieuw punt kaartobject of vertices voor lijnen of vlakken via invoer van coördinaten.</string>
@@ -747,7 +747,7 @@
         <string name="barcodeScanner">Barcode Scanner</string>
 
         <string name="enableNTRIPMenu">NTRIP Client</string>
-        <string name="enableNTRIPConnectionSum">Klik om Mapit NTRIP Client te gebruiken als bron voor locatie.</string>
+        <string name="enableNTRIPConnectionSum">Tik om Mapit NTRIP Client te gebruiken als bron voor locatie.</string>
         <string name="enableNTRIPConnection">Mapit NTRIP Client</string>
         <string name="enableNTRIPConnectionLost">Mapit is niet in staat om NTRIP Client Output Stream te detecteren. STOP en START NTRIP Service om opnieuw verbinding te maken.</string>
         <string name="ntripClientNotInstalled">Mapit NTRIP Client applicatie is niet geïnstalleerd. Het is een aparte applicatie die u toelaat RTK-gecorrigeerde locaties te gebruiken in Mapit. Als je het gratis wil uitproberen voor 7 dagen, installeer aub nu de app.\n\nMeer informatie:\nhttps://mapitgis.com/mapit-gis-ntrip-client</string>
