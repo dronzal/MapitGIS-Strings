@@ -1,7 +1,7 @@
 <resources>
 <!-- Mapit Spatial - Specific Strings Below-->
-    <string name="spatialSubscription">Mapit Spatial Subscription</string>
-    <string name="attributeSetExported">Attribute set has been exported and saved to:</string>
+    <string name="spatialSubscription">Mapit Spatial Abonnement</string>
+    <string name="attributeSetExported">Attributen set is geëxporteerd en opgeslagen naar:</string>
     <string name="isSelectable">Features can be selected on the map</string>
     <string name="spatialSubscriptionInfo">This function of Mapit Spatial does require a valid Google subscription to run. The subscription is valid for a period of 1 calendar year and provides access to all software functionality. Please press \'OK\' to continue and start 7 days FREE trial period.</string>
     <string name="type_tinyInt">Values range: -127 to 127</string>
